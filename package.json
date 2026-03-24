@@ -1,0 +1,16 @@
+{
+  "name": "autodidact",
+  "version": "2.0.0",
+  "description": "Autonomous AI web agent with full internet access",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "express": "^4.21.0",
+    "ws": "^8.18.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
